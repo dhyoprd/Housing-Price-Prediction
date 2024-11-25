@@ -1,0 +1,22 @@
+# Data Processing and Analysis
+pandas==2.1.1
+numpy==1.26.0
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# Machine Learning
+scikit-learn==1.3.1
+xgboost==1.7.6
+lightgbm==4.0.0
+
+# API Framework
+flask==3.0.0
+
+# Deployment and Utilities
+gunicorn==21.2.0  # For deploying the Flask app in production
+pickle5==0.0.13   # For saving and loading models (if not using joblib)
+
+# Optional
+jupyterlab==4.0.5  # For running and creating notebooks
