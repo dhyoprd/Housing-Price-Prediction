@@ -85,7 +85,7 @@ housing-price-prediction/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/housing-price-prediction.git
+   git clone https://github.com/dhyoprd/housing-price-prediction.git
    cd housing-price-prediction
    ```
 
